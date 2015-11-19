@@ -28,7 +28,7 @@ $description = preg_replace('/class=".+\/(\D+)\d+\.png"/', 'class="$1"', $descri
   <div class="box">
 
     <header class="row header">
-      <h1> SeatMe! <br> <small> Univesity of Bath Library </small> </h1>
+      <h1> SeatMe! <br> <small> University of Bath Library </small> </h1>
     </header>
 
     <section class="row content">
